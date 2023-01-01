@@ -1,16 +1,5 @@
 # new_year_resolution
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a mobile application which functions is quite similar to that of a todo app
+Enter your new year resolution and save it come back and check off when completed
+the apps make use of flutter for the frontend and hive for the backend(database)
